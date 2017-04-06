@@ -1,0 +1,46 @@
+body {
+    background-image: url("images/bluewallpaper.jpg");}
+
+
+div {text-align: center;  }
+
+
+h1 {
+	text-align: center;    
+    color: white;
+}
+
+button {
+/*	margin-left: 50%;
+*/
+	text-align: center;    
+    color: black;
+	background-color: orange;
+
+}
+
+
+
+.h2-2 {	
+	background-color: yellow;
+    border: 1px solid green;
+	margin-right: 20px;
+
+	color:green;}
+
+
+.h2-1 {color:red;}
+
+
+
+
+.imgGage{
+	width: 30%;
+/*    height: 30%;
+*/border-radius: 50%;}
+
+
+
+.imgLucius{ border-radius: 50%;}
+
+
